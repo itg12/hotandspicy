@@ -27,7 +27,6 @@ export default function App() {
           <Route path='/Account' exact element={<Account/>}/>
           <Route path='/Category' exact element={<Dishes/>}/>
           <Route path='/Orders' exact element={<Orders/>}/>
-
         </Routes>
       </Router>
     </>
